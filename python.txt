@@ -1,5 +1,7 @@
 FROM UBUNTU 
 
+cd /etc/
+
 RUN sudo apt update && upgrade
 
 RUN sudo apt install nginx 
