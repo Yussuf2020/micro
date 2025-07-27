@@ -1,3 +1,5 @@
 FROM UBUNTU 
 
+cd /etc/
+
 RUN sudo apt update && upgrade
