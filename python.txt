@@ -1,0 +1,3 @@
+FROM UBUNTU 
+
+RUN sudo apt update && upgrade
